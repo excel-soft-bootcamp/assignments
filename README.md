@@ -9,5 +9,6 @@ Assignments Repository
 - Your Sixth Assignment is Here  [Strategy - ImageShare](https://classroom.github.com/a/BAeEy--K).
 - Your Seventh Assignment is Here  [Object Reusability -Composition](https://classroom.github.com/a/KXpettPd).
 - Explore "ref,out,readonly,const" keywords
+- Explore "Explicit Interface Implementation"
 
 
