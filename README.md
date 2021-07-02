@@ -7,3 +7,4 @@ Assignments Repository
 - Your Fourth Assignment is Here [OCP-StringValidator](https://classroom.github.com/a/448KBAVB). 
 - Your Fifth Assignment is Here [Composition - PrintScanner](https://classroom.github.com/a/kc54LRFg). 
 - Your Sixth Assignment is Here  [Strategy - ImageShare](https://classroom.github.com/a/BAeEy--K).
+- Your Seventh Assignment is Here  [Object Reusability -Composition](https://classroom.github.com/a/KXpettPd).
