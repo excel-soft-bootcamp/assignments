@@ -8,7 +8,9 @@ Assignments Repository
 - Your Fifth Assignment is Here [Composition - PrintScanner](https://classroom.github.com/a/kc54LRFg). 
 - Your Sixth Assignment is Here  [Strategy - ImageShare](https://classroom.github.com/a/BAeEy--K).
 - Your Seventh Assignment is Here  [Object Reusability -Composition](https://classroom.github.com/a/KXpettPd).
+- your Eight Assignment is Here [Object Reusability -Composition](https://classroom.github.com/a/Ug0E3JVZ).   
 - Explore "ref,out,readonly,const" keywords
 - Explore "Explicit Interface Implementation"
+- Explore "params","indexer","is","as" keywords"
 
 
