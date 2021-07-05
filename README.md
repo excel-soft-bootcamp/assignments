@@ -9,6 +9,7 @@ Assignments Repository
 - Your Sixth Assignment is Here  [Strategy - ImageShare](https://classroom.github.com/a/BAeEy--K).
 - Your Seventh Assignment is Here  [Object Reusability -Composition](https://classroom.github.com/a/KXpettPd).
 - your Eight Assignment is Here [Array Problem -Static to Dynamic](https://classroom.github.com/a/Ug0E3JVZ).   
+- your Ninth Assignment is Here [Custom ReSize Function](https://classroom.github.com/a/GU6NbC2X).   
 - Explore "ref,out,readonly,const" keywords
 - Explore "Explicit Interface Implementation"
 - Explore "params","indexer","is","as" keywords"
