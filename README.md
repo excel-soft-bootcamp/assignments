@@ -14,7 +14,7 @@ Assignments Repository
 - Explore "Explicit Interface Implementation"
 - Explore "params","indexer","is","as" keywords"
 - Explore "Function as an Argument" 
-- your Tenth Assignment is Here "Seperation of Concnrens " Convert your BmiCalculatorApp to Multi Assembly Solution.
+- your Tenth Assignment is Here "Seperation of Concerns " Convert your BmiCalculatorApp to Multi Assembly Solution.
 -- Take Decession On Number of Assembly and each Assembly Responsibility
 
 
